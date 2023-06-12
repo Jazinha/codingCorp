@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jazinha/testing.git"
+  },
+  "author": "Jazinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jazinha/testing/issues"
+  },
+  "homepage": "https://github.com/Jazinha/testing#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.5.0"
+  }
+}
